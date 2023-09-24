@@ -1,0 +1,74 @@
+! Author: CYC
+! Description: CYC's Ad Filters
+! Expires: 7 days (update frequency)
+! Title: CYC's Ad Filters
+! Version: 1.94
+@@||addthis.com^$domain=chinapress.com.my|thestar.com.my
+@@||amonline.com.my^
+@@||chiliboomtv.chinapress.com.my^
+@@||hsbc.com.hk^
+@@||hsbc.com.my^
+@@||maxis.com.my^
+@@||maybank2u.com.my^
+@@||pbebank.com^
+@@||rapidkl.com.my^
+@@||sharethis.com^$domain=chinapress.com.my|thestar.com.my
+@@||time.com.my^
+@@||tm.com.my^
+*$third-party,domain=book.xbookcn.net|blog.xbookcn.net
+*$third-party,domain=jingdianyulu.org
+*$third-party,domain=soduzw.com
+*/assets/publi*.js$domain=mylewen.com|lewenkanshu.com|lewenlook.com|heshang123.com|shenyekanshu.com|shenyedushu.com|shenyebook.com|myshenye.com|siwen123.com|lengmenbook.com
+||ivideosmart.com^$domain=sinchew.com.my
+||qidian.com/majax/chapter/getChapterInfo^
+bleacherreport.com###social-promo-flyin
+czbooks.net###background-block
+czbooks.net###block-container
+czbooks.net##.ads
+czbooks.net##.download-notice
+m.jingdianyulu.org##.DivBottom
+m.jingdianyulu.org##div[style="height:60px;"]
+m.jingdianyulu.org#?#dl.S2:has(~ div.searchForm)
+m.jingdianyulu.org#?#h2:contains(的书友还喜欢看)
+m.uuks.org##.RMss1
+m.uuks.org##.zw1ljPz
+m.uuks.org##section.wk.m-alltuiji
+madriduniversal.com###mvp-main-nav-wrap
+madriduniversal.com###mvp-fly-wrap
+madriduniversal.com###mvp-post-feat-img
+sinchew.com.my##.adv-post
+sinchew.com.my#@#.socialshare
+sinchew.com.my#@#a[href^="https://api.whatsapp.com/send?text="]
+sj.uukanshu.com##.samebooks1
+sj.uukanshu.com##.share_top.share
+theathletic.com###slideup-paywall-experiment
+theathletic.com###slideup-regwall-experiment
+theathletic.com##footer
+theathletic.com$script
+www.69shuba.com##.col-4
+www.69shuba.com##.foot
+www.69shuba.com##.ranking
+www.chinapress.com.my###content-adv
+www.chinapress.com.my###ivsplayer01-container
+www.chinapress.com.my##.clearfix.eclassified_new_featured
+www.chinapress.com.my##.desktop_hidden_ads
+www.chinapress.com.my##footer
+www.dailymail.co.uk###most-watched-videos-lazy-container
+www.dailymail.co.uk##.puff.sport
+www.dailymail.co.uk##.related-replace-articles
+www.goal.com##.modal
+www.goal.com##.modal_popup
+www.goal.com##.overlay
+www.malaymail.com##.izooto-widget-overlay
+www.marca.com###banda_suscripcion
+www.newsnow.co.uk##.ad__container
+www.newsnow.co.uk##.ad__container--mobile
+www.newsnow.co.uk##.container__group--mobile
+www.newsnow.co.uk##.grid-column
+www.newsnow.co.uk##.grid.ticker
+www.newsnow.co.uk##.u-top-spacer-xs.page-grid__all.blurb.u-card-base
+www.newsnow.co.uk#?#script:contains(blockerDetection)
+www.pornhub.com###discoverSearch
+www.pornhub.com##.js-mainFooter
+www.thestar.com.my##.alertbox
+www.thestar.com.my##.slider-story
