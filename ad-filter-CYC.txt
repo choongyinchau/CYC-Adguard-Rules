@@ -2,7 +2,7 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 1.94
+! Version: 1.95
 @@||addthis.com^$domain=chinapress.com.my|thestar.com.my
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
@@ -30,17 +30,12 @@ m.jingdianyulu.org##.DivBottom
 m.jingdianyulu.org##div[style="height:60px;"]
 m.jingdianyulu.org#?#dl.S2:has(~ div.searchForm)
 m.jingdianyulu.org#?#h2:contains(的书友还喜欢看)
-m.uuks.org##.RMss1
-m.uuks.org##.zw1ljPz
-m.uuks.org##section.wk.m-alltuiji
 madriduniversal.com###mvp-main-nav-wrap
 madriduniversal.com###mvp-fly-wrap
 madriduniversal.com###mvp-post-feat-img
 sinchew.com.my##.adv-post
 sinchew.com.my#@#.socialshare
 sinchew.com.my#@#a[href^="https://api.whatsapp.com/send?text="]
-sj.uukanshu.com##.samebooks1
-sj.uukanshu.com##.share_top.share
 theathletic.com###slideup-paywall-experiment
 theathletic.com###slideup-regwall-experiment
 theathletic.com##footer
