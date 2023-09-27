@@ -2,7 +2,7 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 1.96
+! Version: 1.97
 @@||addthis.com^$domain=chinapress.com.my|thestar.com.my
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
@@ -20,17 +20,17 @@
 *$third-party,domain=soduzw.com
 */assets/publi*.js$domain=mylewen.com|lewenkanshu.com|lewenlook.com|heshang123.com|shenyekanshu.com|shenyedushu.com|shenyebook.com|myshenye.com|siwen123.com|lengmenbook.com
 ||ivideosmart.com^$domain=sinchew.com.my
-||qidian.com/majax/chapter/getChapterInfo^
 bleacherreport.com###social-promo-flyin
 czbooks.net###background-block
 czbooks.net###block-container
 czbooks.net##.ads
 czbooks.net##.download-notice
-*freemalaysiatoday.com/*.js
 m.jingdianyulu.org##.DivBottom
 m.jingdianyulu.org##div[style="height:60px;"]
 m.jingdianyulu.org#?#dl.S2:has(~ div.searchForm)
 m.jingdianyulu.org#?#h2:contains(的书友还喜欢看)
+m.qidian.com/majax/chapter/getChapterInfo^
+m.qidian.com###reader-toast-container
 madriduniversal.com###mvp-main-nav-wrap
 madriduniversal.com###mvp-fly-wrap
 madriduniversal.com###mvp-post-feat-img
@@ -40,7 +40,7 @@ sinchew.com.my#@#a[href^="https://api.whatsapp.com/send?text="]
 theathletic.com###slideup-paywall-experiment
 theathletic.com###slideup-regwall-experiment
 theathletic.com##footer
-*theathletic.com/*.js
+theathletic.com/*.js
 www.69shuba.com##.col-4
 www.69shuba.com##.foot
 www.69shuba.com##.ranking
@@ -52,6 +52,7 @@ www.chinapress.com.my##footer
 www.dailymail.co.uk###most-watched-videos-lazy-container
 www.dailymail.co.uk##.puff.sport
 www.dailymail.co.uk##.related-replace-articles
+www.freemalaysiatoday.com/*.js
 www.goal.com##.modal
 www.goal.com##.modal_popup
 www.goal.com##.overlay
