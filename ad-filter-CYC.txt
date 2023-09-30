@@ -25,6 +25,7 @@ czbooks.net###background-block
 czbooks.net###block-container
 czbooks.net##.ads
 czbooks.net##.download-notice
+czbooks.net##A[href='//czbooks.net/editor']
 m.jingdianyulu.org##.DivBottom
 m.jingdianyulu.org##div[style="height:60px;"]
 m.jingdianyulu.org#?#dl.S2:has(~ div.searchForm)
