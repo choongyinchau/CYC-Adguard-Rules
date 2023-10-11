@@ -1,8 +1,10 @@
+*qidian.com/read/assets/entries/entry-server-routing.*.js
+! *qidian.com/majax/chapter/getChapterInfo*
 ! Author: CYC
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 1.99
+! Version: 2.00
 @@||addthis.com^$domain=chinapress.com.my|thestar.com.my
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
@@ -31,7 +33,6 @@ m.jingdianyulu.org##.DivBottom
 m.jingdianyulu.org##div[style="height:60px;"]
 m.jingdianyulu.org#?#dl.S2:has(~ div.searchForm)
 m.jingdianyulu.org#?#h2:contains(的书友还喜欢看)
-m.qidian.com/majax/chapter/getChapterInfo^
 m.qidian.com###reader-toast-container
 madriduniversal.com###mvp-main-nav-wrap
 madriduniversal.com###mvp-fly-wrap
