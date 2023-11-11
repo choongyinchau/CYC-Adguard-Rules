@@ -43,6 +43,8 @@ madriduniversal.com###mvp-post-feat-img
 sinchew.com.my##.adv-post
 sinchew.com.my#@#.socialshare
 sinchew.com.my#@#a[href^="https://api.whatsapp.com/send?text="]
+sj.uukanshu.com##.samebooks1
+sj.uukanshu.com##.share.share_top
 theathletic.com###slideup-paywall-experiment
 theathletic.com###slideup-regwall-experiment
 theathletic.com##footer
