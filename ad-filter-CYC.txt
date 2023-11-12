@@ -52,6 +52,7 @@ theathletic.com/*.js
 www.69shuba.com##.col-4
 www.69shuba.com##.foot
 www.69shuba.com##.ranking
+www.69shuba.com##.setbox
 www.69shuba.com##.yuedutuijian
 www.chinapress.com.my###content-adv
 www.chinapress.com.my###ivsplayer01-container
