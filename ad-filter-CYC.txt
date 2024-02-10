@@ -8,6 +8,7 @@
 @@||addthis.com^$domain=chinapress.com.my|thestar.com.my
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
+@@||crazygames.com^
 @@||hsbc.com.hk^
 @@||hsbc.com.my^
 @@||maxis.com.my^
