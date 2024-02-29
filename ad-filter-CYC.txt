@@ -4,7 +4,7 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.05
+! Version: 2.06
 @@||addthis.com^$domain=chinapress.com.my|thestar.com.my
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
@@ -50,13 +50,13 @@ theathletic.com###slideup-paywall-experiment
 theathletic.com###slideup-regwall-experiment
 theathletic.com##footer
 theathletic.com/*.js
-www.69xinshu.com##.col-4
-www.69xinshu.com##.foot
-www.69xinshu.com##.ranking
-www.69xinshu.com##.setbox
-www.69xinshu.com##.yueduad1
-www.69xinshu.com##.tuijian
-www.69xinshu.com##.yuedutuijian
+www.69shu.pro##.col-4
+www.69shu.pro##.foot
+www.69shu.pro##.ranking
+www.69shu.pro##.setbox
+www.69shu.pro##.yueduad1
+www.69shu.pro##.tuijian
+www.69shu.pro##.yuedutuijian
 www.biquge.tw##.zhuanti
 www.chinapress.com.my###content-adv
 www.chinapress.com.my###ivsplayer01-container
