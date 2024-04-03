@@ -1,3 +1,4 @@
+||4btcqjy.cn^
 ! *qidian.com/read/assets/entries/entry-server-routing.*.js
 ! *qidian.com/majax/chapter/getChapterInfo*
 ! Author: CYC
