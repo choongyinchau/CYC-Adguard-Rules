@@ -1,10 +1,8 @@
-! *qidian.com/read/assets/entries/entry-server-routing.*.js
-! *qidian.com/majax/chapter/getChapterInfo*
 ! Author: CYC
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.06
+! Version: 2.07
 @@||addthis.com^$domain=chinapress.com.my|thestar.com.my
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
@@ -25,6 +23,7 @@
 ||chatango.com^
 ||ivideosmart.com^$domain=sinchew.com.my
 bleacherreport.com###social-promo-flyin
+cdn.chaobai168.com/js/go009.js
 czbooks.net###background-block
 czbooks.net###block-container
 czbooks.net##.ads
