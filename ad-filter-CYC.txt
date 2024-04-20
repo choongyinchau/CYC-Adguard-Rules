@@ -1,4 +1,4 @@
-m.biquxs.com^$script
+||biquxs.com^$script
 ! Author: CYC
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
