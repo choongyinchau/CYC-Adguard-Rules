@@ -1,12 +1,8 @@
-www.managingmadrid.com##.l-header
-www.managingmadrid.com##.c-social-buttons
-www.managingmadrid.com##FIGURE.e-image
-www.managingmadrid.com###toaster
 ! Author: CYC
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.07
+! Version: 2.08
 @@||addthis.com^$domain=chinapress.com.my|thestar.com.my
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
@@ -74,6 +70,10 @@ www.goal.com##.modal
 www.goal.com##.modal_popup
 www.goal.com##.overlay
 www.malaymail.com##.izooto-widget-overlay
+www.managingmadrid.com##.l-header
+www.managingmadrid.com##.c-social-buttons
+www.managingmadrid.com##FIGURE.e-image
+www.managingmadrid.com###toaster
 www.marca.com###banda_suscripcion
 www.newsnow.co.uk##.ad__container
 www.newsnow.co.uk##.ad__container--mobile
