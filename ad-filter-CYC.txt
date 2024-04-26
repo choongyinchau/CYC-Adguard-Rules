@@ -1,6 +1,7 @@
 www.managingmadrid.com##.l-header
 www.managingmadrid.com##.c-social-buttons
 www.managingmadrid.com##FIGURE.e-image
+www.managingmadrid.com###toaster
 ! Author: CYC
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
