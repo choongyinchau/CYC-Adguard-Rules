@@ -1,3 +1,4 @@
+www.bavarianfootballworks.com##.l-header
 ! Author: CYC
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
