@@ -2,7 +2,7 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.08
+! Version: 2.09
 @@||addthis.com^$domain=chinapress.com.my|thestar.com.my
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
@@ -21,6 +21,7 @@
 *$third-party,domain=soduzw.com
 */assets/publi*.js$domain=mylewen.com|lewenkanshu.com|lewenlook.com|heshang123.com|shenyekanshu.com|shenyedushu.com|shenyebook.com|myshenye.com|siwen123.com|lengmenbook.com
 ||chatango.com^
+||eabvmue.cn^$domain=yulusy.com
 ||ivideosmart.com^$domain=sinchew.com.my
 bleacherreport.com###social-promo-flyin
 cdn.chaobai168.com/js/go009.js
@@ -86,3 +87,11 @@ www.pornhub.com###discoverSearch
 www.pornhub.com##.js-mainFooter
 www.thestar.com.my##.alertbox
 www.thestar.com.my##.slider-story
+yulusy.com##h2[class="vbgcol FCol"]
+yulusy.com##div[style="height: 60px;"]
+yulusy.com##div[class="DivBottom"]
+yulusy.com##div[class="stBIKLPY"]
+yulusy.com##div[class="bfnrwCGT"]
+yulusy.com##div[style="height:60px;"]
+yulusy.com##dl[class="S2"]
+yulusy.com##div[class="sErr FCol"]
