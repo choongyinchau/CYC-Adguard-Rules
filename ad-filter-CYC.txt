@@ -17,7 +17,7 @@
 @@||time.com.my^
 @@||tm.com.my^
 *$third-party,domain=book.xbookcn.net|blog.xbookcn.net
-*$third-party,domain=yulusy.com
+*$third-party,domain=m.yulusy.com
 *$third-party,domain=soduzw.com
 */assets/publi*.js$domain=mylewen.com|lewenkanshu.com|lewenlook.com|heshang123.com|shenyekanshu.com|shenyedushu.com|shenyebook.com|myshenye.com|siwen123.com|lengmenbook.com
 ||chatango.com^
