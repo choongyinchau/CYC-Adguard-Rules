@@ -22,6 +22,14 @@
 */assets/publi*.js$domain=mylewen.com|lewenkanshu.com|lewenlook.com|heshang123.com|shenyekanshu.com|shenyedushu.com|shenyebook.com|myshenye.com|siwen123.com|lengmenbook.com
 ||chatango.com^
 ||ivideosmart.com^$domain=sinchew.com.my
+69shu.top###baocuo
+69shu.top##.col-4
+69shu.top##.foot
+69shu.top##.headerad
+69shu.top##.ranking
+69shu.top##.yueduad1
+69shu.top##.tuijian
+69shu.top##.yuedutuijian
 bleacherreport.com###social-promo-flyin
 cdn.chaobai168.com/js/go009.js
 czbooks.net###background-block
@@ -49,12 +57,6 @@ theathletic.com###slideup-paywall-experiment
 theathletic.com###slideup-regwall-experiment
 theathletic.com##footer
 theathletic.com/*.js
-www.69shu.top##.col-4
-www.69shu.top##.foot
-www.69shu.top##.ranking
-www.69shu.top##.yueduad1
-www.69shu.top##.tuijian
-www.69shu.top##.yuedutuijian
 www.biquge.tw##.zhuanti
 www.chinapress.com.my###content-adv
 www.chinapress.com.my###ivsplayer01-container
