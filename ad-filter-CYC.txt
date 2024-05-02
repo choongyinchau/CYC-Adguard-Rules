@@ -2,7 +2,7 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.09
+! Version: 2.10
 @@||addthis.com^$domain=chinapress.com.my|thestar.com.my
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
@@ -17,7 +17,7 @@
 @@||time.com.my^
 @@||tm.com.my^
 *$third-party,domain=book.xbookcn.net|blog.xbookcn.net
-*$third-party,domain=jingdianyulu.org
+*$third-party,domain=yulusy.com
 *$third-party,domain=soduzw.com
 */assets/publi*.js$domain=mylewen.com|lewenkanshu.com|lewenlook.com|heshang123.com|shenyekanshu.com|shenyedushu.com|shenyebook.com|myshenye.com|siwen123.com|lengmenbook.com
 ||chatango.com^
@@ -40,10 +40,6 @@ czbooks.net##.read-on-app
 czbooks.net##A[href='//czbooks.net/editor']
 finttv.ga##.wp-block-button
 finttv.ga#?#p:contains(Предоставленный ниже)
-m.jingdianyulu.org##.DivBottom
-m.jingdianyulu.org##div[style="height:60px;"]
-m.jingdianyulu.org#?#dl.S2:has(~ div.searchForm)
-m.jingdianyulu.org#?#h2:contains(的书友还喜欢看)
 m.qidian.com###reader-toast-container
 madriduniversal.com###mvp-main-nav-wrap
 madriduniversal.com###mvp-fly-wrap
@@ -89,10 +85,11 @@ www.thestar.com.my##.alertbox
 www.thestar.com.my##.slider-story
 yulusy.com##h2[class="vbgcol FCol"]
 yulusy.com##div[style="height: 60px;"]
+yulusy.com##div[style="height:60px;"]
 yulusy.com##div[class="DivBottom"]
 yulusy.com##div[class="stBIKLPY"]
 yulusy.com##div[class="bfnrwCGT"]
-yulusy.com##div[style="height:60px;"]
-yulusy.com##dl[class="S2"]
 yulusy.com##div[class="sErr FCol"]
 yulusy.com##div[id="nsws"]
+yulusy.com#?#dl.S2:has(~ div.searchForm)
+yulusy.com#?#h2:contains(的书友还喜欢看)
