@@ -20,7 +20,6 @@
 *$third-party,domain=jingdianyulu.org
 *$third-party,domain=soduzw.com
 */assets/publi*.js$domain=mylewen.com|lewenkanshu.com|lewenlook.com|heshang123.com|shenyekanshu.com|shenyedushu.com|shenyebook.com|myshenye.com|siwen123.com|lengmenbook.com
-*.cn/*.js$domain=yulusy.com
 ||chatango.com^
 ||ivideosmart.com^$domain=sinchew.com.my
 bleacherreport.com###social-promo-flyin
