@@ -17,7 +17,7 @@
 @@||time.com.my^
 @@||tm.com.my^
 *$third-party,domain=soduzw.com
-*/assets/publi*.js$domain=mylewen.com|lewenkanshu.com|lewenlook.com|heshang123.com|shenyekanshu.com|shenyedushu.com|shenyebook.com|myshenye.com|siwen123.com|lengmenbook.com|lewen8.cc
+*/assets/publi*.js$domain=mylewen.com|lewenkanshu.com|lewenlook.com|heshang123.com|shenyekanshu.com|shenyedushu.com|shenyebook.com|myshenye.com|siwen123.com|lengmenbook.com|lewen8.cc|xinlong5.com
 ! begin yulusy.com
 */bigREDcat.js*
 ! end yulusy.com
