@@ -18,7 +18,7 @@
 @@||tm.com.my^
 */assets/publi*.js$domain=mylewen.com|lewenkanshu.com|lewenlook.com|heshang123.com|shenyekanshu.com|shenyedushu.com|shenyebook.com|myshenye.com|siwen123.com|lengmenbook.com
 *$third-party,domain=soduzw.com
-*/bigREDcat.js*$domain=m.yulusy.com
+*/bigREDcat.js*
 ||uosxdmk.cn^$domain=yulusy.com
 ||erfgbnyhj.cn^$domain=yulusy.com
 ||vkguvyg.cn^$domain=yulusy.com
