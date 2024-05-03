@@ -18,13 +18,9 @@
 @@||tm.com.my^
 */assets/publi*.js$domain=mylewen.com|lewenkanshu.com|lewenlook.com|heshang123.com|shenyekanshu.com|shenyedushu.com|shenyebook.com|myshenye.com|siwen123.com|lengmenbook.com
 *$third-party,domain=soduzw.com
+! begin yulusy.com
 */bigREDcat.js*
-||uosxdmk.cn^$domain=yulusy.com
-||erfgbnyhj.cn^$domain=yulusy.com
-||vkguvyg.cn^$domain=yulusy.com
-||eabvmue.cn^$domain=yulusy.com
-||upailek.cn^$domain=yulusy.com
-||chatango.com^
+! end yulusy.com
 ||ivideosmart.com^$domain=sinchew.com.my
 69shu.top###baocuo
 69shu.top##.col-4
