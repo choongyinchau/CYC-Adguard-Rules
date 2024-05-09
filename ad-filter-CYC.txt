@@ -2,7 +2,7 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.11
+! Version: 2.12
 @@||addthis.com^$domain=chinapress.com.my|thestar.com.my
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
