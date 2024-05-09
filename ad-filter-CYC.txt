@@ -2,7 +2,7 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.12
+! Version: 2.13
 @@||addthis.com^$domain=chinapress.com.my|thestar.com.my
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
@@ -24,14 +24,15 @@
 */bigREDcat.js*
 ! end yulusy.com
 ||ivideosmart.com^$domain=sinchew.com.my
-! 69shuba.pro###baocuo
-! 69shuba.pro##.col-4
-! 69shuba.pro##.foot
-! 69shuba.pro##.headerad
-! 69shuba.pro##.ranking
-! 69shuba.pro##.yueduad1
-! 69shuba.pro##.tuijian
-! 69shuba.pro##.yuedutuijian
+69shuba.pro#@#.addbtn
+69shuba.pro###baocuo
+69shuba.pro##.col-4
+69shuba.pro##.foot
+69shuba.pro##.headerad
+69shuba.pro##.ranking
+69shuba.pro##.yueduad1
+69shuba.pro##.tuijian
+69shuba.pro##.yuedutuijian
 bleacherreport.com###social-promo-flyin
 cdn.chaobai168.com/js/go009.js
 czbooks.net###background-block
