@@ -92,6 +92,6 @@ yulusy.com##div[class="DivBottom"]
 yulusy.com##div[class="stBIKLPY"]
 yulusy.com##div[class="bfnrwCGT"]
 yulusy.com##div[class="sErr FCol"]
-yulusy.com##div[id="nsws"]
+yulusy.com$$div[id="nsws"]
 yulusy.com##dl[class="S2"]
 yulusy.com#?#h2:contains(的书友还喜欢看)
