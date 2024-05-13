@@ -2,7 +2,7 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.14
+! Version: 2.15
 @@||addthis.com^$domain=chinapress.com.my|thestar.com.my
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
@@ -17,40 +17,45 @@
 @@||time.com.my^
 @@||tm.com.my^
 *$third-party,domain=soduzw.com
-! begin lewenkanshu.com|shenyekanshu.com|mylewen.com|lewenlook.com|heshang123.com|shenyedushu.com|shenyebook.com|myshenye.com|siwen123.com|lengmenbook.com|lewen8.cc|xinlong5.com
 */assets/publi*.js*
-! end lewenkanshu.com|shenyekanshu.com
-! begin yulusy.com
-*/bigREDcat.js*
-! end yulusy.com
+||assets.minutemediacdn.com^
 ||ivideosmart.com^$domain=sinchew.com.my
 69shuba.pro###baocuo
 69shuba.pro##.col-4
 69shuba.pro##.foot
 69shuba.pro##.headerad
 69shuba.pro##.ranking
-69shuba.pro##.yueduad1
 69shuba.pro##.tuijian
+69shuba.pro##.yueduad1
 69shuba.pro##.yuedutuijian
 bleacherreport.com###social-promo-flyin
 cdn.chaobai168.com/js/go009.js
+chinapress.com.my##div[id="full_screen_overlay"]
 czbooks.net###background-block
 czbooks.net###block-container
 czbooks.net##.ads
 czbooks.net##.download-notice
 czbooks.net##.read-on-app
 czbooks.net##A[href='//czbooks.net/editor']
+dailymail.co.uk##div[class="swipe-tutorial"]
+dailystar.co.uk##div[id="breaking-news"]
 finttv.ga##.wp-block-button
 finttv.ga#?#p:contains(Предоставленный ниже)
+getfootballnewsspain.com##div[id="ezmobfooter"]
 m.qidian.com###reader-toast-container
-madriduniversal.com###mvp-main-nav-wrap
 madriduniversal.com###mvp-fly-wrap
+madriduniversal.com###mvp-main-nav-wrap
 madriduniversal.com###mvp-post-feat-img
+madriduniversal.com##div[class="GRVAd leaderboard-fixed"]
+madriduniversal.com##div[class="GRVAdWrap"]
+metro.co.uk##div[id="we-need-monies"]
+mirror.co.uk##div[id="breaking-news"]
 sinchew.com.my##.adv-post
 sinchew.com.my#@#.socialshare
 sinchew.com.my#@#a[href^="https://api.whatsapp.com/send?text="]
 sj.uukanshu.com##.samebooks1
 sj.uukanshu.com##.share.share_top
+sportbible.com##div[id="primis_playerSekindoSPlayer663b91db90d70"]
 theathletic.com###slideup-paywall-experiment
 theathletic.com###slideup-regwall-experiment
 theathletic.com##footer
@@ -69,10 +74,10 @@ www.goal.com##.modal
 www.goal.com##.modal_popup
 www.goal.com##.overlay
 www.malaymail.com##.izooto-widget-overlay
-www.managingmadrid.com##.l-header
-www.managingmadrid.com##.c-social-buttons
-www.managingmadrid.com##FIGURE.e-image
 www.managingmadrid.com###toaster
+www.managingmadrid.com##.c-social-buttons
+www.managingmadrid.com##.l-header
+www.managingmadrid.com##FIGURE.e-image
 www.marca.com###banda_suscripcion
 www.newsnow.co.uk##.ad__container
 www.newsnow.co.uk##.ad__container--mobile
@@ -85,13 +90,13 @@ www.pornhub.com###discoverSearch
 www.pornhub.com##.js-mainFooter
 www.thestar.com.my##.alertbox
 www.thestar.com.my##.slider-story
-yulusy.com##h2[class="vbgcol FCol"]
-yulusy.com##div[style="height: 60px;"]
-yulusy.com##div[style="height:60px;"]
 yulusy.com##div[class="DivBottom"]
-yulusy.com##div[class="stBIKLPY"]
 yulusy.com##div[class="bfnrwCGT"]
 yulusy.com##div[class="sErr FCol"]
-yulusy.com$$div[id="nsws"]
+yulusy.com##div[class="stBIKLPY"]
+yulusy.com##div[style="height: 60px;"]
+yulusy.com##div[style="height:60px;"]
 yulusy.com##dl[class="S2"]
+yulusy.com##h2[class="vbgcol FCol"]
 yulusy.com#?#h2:contains(的书友还喜欢看)
+yulusy.com$$div[id="nsws"]
