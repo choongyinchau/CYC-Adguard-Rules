@@ -2,18 +2,20 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.15
+! Version: 2.16
 @@||addthis.com^$domain=chinapress.com.my|thestar.com.my
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
 @@||crazygames.com^
 @@||hsbc.com.hk^
 @@||hsbc.com.my^
+@@||lazada.com.my^
 @@||maxis.com.my^
 @@||maybank2u.com.my^
 @@||pbebank.com^
 @@||rapidkl.com.my^
 @@||sharethis.com^$domain=chinapress.com.my|thestar.com.my
+@@||shopee.com.my^
 @@||time.com.my^
 @@||tm.com.my^
 *$third-party,domain=soduzw.com
