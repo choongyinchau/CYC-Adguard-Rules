@@ -2,8 +2,8 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.16
-@@||addthis.com^$domain=chinapress.com.my|thestar.com.my
+! Version: 2.17
+@@||addthis.com^
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
 @@||crazygames.com^
@@ -14,7 +14,7 @@
 @@||maybank2u.com.my^
 @@||pbebank.com^
 @@||rapidkl.com.my^
-@@||sharethis.com^$domain=chinapress.com.my|thestar.com.my
+@@||sharethis.com^
 @@||shopee.com.my^
 @@||time.com.my^
 @@||tm.com.my^
@@ -30,28 +30,71 @@
 69shuba.pro##.tuijian
 69shuba.pro##.yueduad1
 69shuba.pro##.yuedutuijian
+biquge.tw##.zhuanti
 bleacherreport.com###social-promo-flyin
 cdn.chaobai168.com/js/go009.js
+chinapress.com.my###content-adv
+chinapress.com.my###ivsplayer01-container
+chinapress.com.my##.clearfix.eclassified_new_featured
+chinapress.com.my##.desktop_hidden_ads
+chinapress.com.my##div[class="ec-jobs-slider-slider-card"]
+chinapress.com.my##div[class="eclassified-new-featured-title"]
 chinapress.com.my##div[id="full_screen_overlay"]
+chinapress.com.my##footer
 czbooks.net###background-block
 czbooks.net###block-container
 czbooks.net##.ads
 czbooks.net##.download-notice
 czbooks.net##.read-on-app
 czbooks.net##A[href='//czbooks.net/editor']
+dailymail.co.uk###most-watched-videos-lazy-container
+dailymail.co.uk##.puff.sport
+dailymail.co.uk##.related-replace-articles
 dailymail.co.uk##div[class="swipe-tutorial"]
 dailystar.co.uk##div[id="breaking-news"]
+express.co.uk##a[class="breaking-news-headline"]
+express.co.uk##div[class="box related-articles clear"]
+express.co.uk##div[class="box two-related-articles clear"]
+express.co.uk##div[class="breaking-news-header"]
+express.co.uk##div[class="cheetah-container"]
+express.co.uk##div[class="view-deal-sticky"]
+express.co.uk##div[class="widget blurb"]
+express.co.uk##div[id="mantis-recommender-placeholder"]
 finttv.ga##.wp-block-button
 finttv.ga#?#p:contains(Предоставленный ниже)
+freemalaysiatoday.com/*.js
 getfootballnewsspain.com##div[id="ezmobfooter"]
+goal.com##.modal
+goal.com##.modal_popup
+goal.com##.overlay
+goal.com##div[class="fc-player_player__OzOmX"]
 m.qidian.com###reader-toast-container
 madriduniversal.com###mvp-fly-wrap
 madriduniversal.com###mvp-main-nav-wrap
 madriduniversal.com###mvp-post-feat-img
 madriduniversal.com##div[class="GRVAd leaderboard-fixed"]
 madriduniversal.com##div[class="GRVAdWrap"]
+malaymail.com##.izooto-widget-overlay
+managingmadrid.com###toaster
+managingmadrid.com##.c-social-buttons
+managingmadrid.com##.l-header
+managingmadrid.com##FIGURE.e-image
+marca.com###banda_suscripcion
+marca.com##div[class="kWidgetIframeContainer full-video"]
+marca.com##header[class="ue-c-video-player-frame__header"]
 metro.co.uk##div[id="we-need-monies"]
+mirror.co.uk##div[class="email-trigger"]
+mirror.co.uk##div[data-embed-type="news"]
 mirror.co.uk##div[id="breaking-news"]
+newsnow.co.uk##.ad__container
+newsnow.co.uk##.ad__container--mobile
+newsnow.co.uk##.container__group--mobile
+newsnow.co.uk##.grid-column
+newsnow.co.uk##.grid.ticker
+newsnow.co.uk##.u-top-spacer-xs.page-grid__all.blurb.u-card-base
+newsnow.co.uk#?#script:contains(blockerDetection)
+pornhub.com###discoverSearch
+pornhub.com##.js-mainFooter
 sinchew.com.my##.adv-post
 sinchew.com.my#@#.socialshare
 sinchew.com.my#@#a[href^="https://api.whatsapp.com/send?text="]
@@ -62,36 +105,8 @@ theathletic.com###slideup-paywall-experiment
 theathletic.com###slideup-regwall-experiment
 theathletic.com##footer
 theathletic.com/*.js
-www.biquge.tw##.zhuanti
-www.chinapress.com.my###content-adv
-www.chinapress.com.my###ivsplayer01-container
-www.chinapress.com.my##.clearfix.eclassified_new_featured
-www.chinapress.com.my##.desktop_hidden_ads
-www.chinapress.com.my##footer
-www.dailymail.co.uk###most-watched-videos-lazy-container
-www.dailymail.co.uk##.puff.sport
-www.dailymail.co.uk##.related-replace-articles
-www.freemalaysiatoday.com/*.js
-www.goal.com##.modal
-www.goal.com##.modal_popup
-www.goal.com##.overlay
-www.malaymail.com##.izooto-widget-overlay
-www.managingmadrid.com###toaster
-www.managingmadrid.com##.c-social-buttons
-www.managingmadrid.com##.l-header
-www.managingmadrid.com##FIGURE.e-image
-www.marca.com###banda_suscripcion
-www.newsnow.co.uk##.ad__container
-www.newsnow.co.uk##.ad__container--mobile
-www.newsnow.co.uk##.container__group--mobile
-www.newsnow.co.uk##.grid-column
-www.newsnow.co.uk##.grid.ticker
-www.newsnow.co.uk##.u-top-spacer-xs.page-grid__all.blurb.u-card-base
-www.newsnow.co.uk#?#script:contains(blockerDetection)
-www.pornhub.com###discoverSearch
-www.pornhub.com##.js-mainFooter
-www.thestar.com.my##.alertbox
-www.thestar.com.my##.slider-story
+thestar.com.my##.alertbox
+thestar.com.my##.slider-story
 yulusy.com##div[class="DivBottom"]
 yulusy.com##div[class="bfnrwCGT"]
 yulusy.com##div[class="sErr FCol"]
