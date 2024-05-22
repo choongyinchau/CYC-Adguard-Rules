@@ -2,7 +2,7 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.17
+! Version: 2.18
 @@||addthis.com^
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
@@ -33,6 +33,8 @@
 biquge.tw##.zhuanti
 bleacherreport.com###social-promo-flyin
 cdn.chaobai168.com/js/go009.js
+check4d.org##div[id="google_ads_iframe_/424536528,32409680/1539031-1_check4d.org_Wipead_0__container__"]
+check4d.org##div[class="_ap_apex_ad"]
 chinapress.com.my###content-adv
 chinapress.com.my###ivsplayer01-container
 chinapress.com.my##.clearfix.eclassified_new_featured
