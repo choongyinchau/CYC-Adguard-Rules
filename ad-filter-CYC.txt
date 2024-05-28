@@ -2,7 +2,7 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.18
+! Version: 2.19
 @@||addthis.com^
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
@@ -35,6 +35,7 @@ bleacherreport.com###social-promo-flyin
 cdn.chaobai168.com/js/go009.js
 check4d.org##div[id="google_ads_iframe_/424536528,32409680/1539031-1_check4d.org_Wipead_0__container__"]
 check4d.org##div[class="_ap_apex_ad"]
+chinapress.com.my##div[class="jobads-container"]
 chinapress.com.my###content-adv
 chinapress.com.my###ivsplayer01-container
 chinapress.com.my##.clearfix.eclassified_new_featured
@@ -66,6 +67,7 @@ finttv.ga##.wp-block-button
 finttv.ga#?#p:contains(Предоставленный ниже)
 freemalaysiatoday.com/*.js
 getfootballnewsspain.com##div[id="ezmobfooter"]
+goal.com##.component-modal
 goal.com##.modal
 goal.com##.modal_popup
 goal.com##.overlay
@@ -85,6 +87,7 @@ marca.com###banda_suscripcion
 marca.com##div[class="kWidgetIframeContainer full-video"]
 marca.com##header[class="ue-c-video-player-frame__header"]
 metro.co.uk##div[id="we-need-monies"]
+metro.co.uk##div[id="swipe-next-overlay"]
 mirror.co.uk##div[class="email-trigger"]
 mirror.co.uk##div[data-embed-type="news"]
 mirror.co.uk##div[id="breaking-news"]
