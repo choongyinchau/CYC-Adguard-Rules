@@ -2,7 +2,7 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.19
+! Version: 2.20
 @@||addthis.com^
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
@@ -78,6 +78,7 @@ madriduniversal.com###mvp-main-nav-wrap
 madriduniversal.com###mvp-post-feat-img
 madriduniversal.com##div[class="GRVAd leaderboard-fixed"]
 madriduniversal.com##div[class="GRVAdWrap"]
+magnum4d.my##div[class="video-section relative overflow-hidden"]
 malaymail.com##.izooto-widget-overlay
 managingmadrid.com###toaster
 managingmadrid.com##.c-social-buttons
