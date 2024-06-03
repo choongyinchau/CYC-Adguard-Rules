@@ -2,7 +2,7 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.20
+! Version: 2.21
 @@||addthis.com^
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
@@ -50,6 +50,8 @@ czbooks.net##.ads
 czbooks.net##.download-notice
 czbooks.net##.read-on-app
 czbooks.net##A[href='//czbooks.net/editor']
+dailymail.co.uk##div[data-swipe-article="false"]
+dailymail.co.uk##div[data-mol-fe-xpmodule-related-story-factbox="true"]
 dailymail.co.uk###most-watched-videos-lazy-container
 dailymail.co.uk##.puff.sport
 dailymail.co.uk##.related-replace-articles
