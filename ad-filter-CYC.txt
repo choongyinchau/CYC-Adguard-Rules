@@ -33,16 +33,15 @@
 biquge.tw##.zhuanti
 bleacherreport.com###social-promo-flyin
 cdn.chaobai168.com/js/go009.js
-check4d.org##div[class="_ap_apex_ad"]
-! chinapress.com.my##div[class="jobads-container"]
-! chinapress.com.my###content-adv
-! chinapress.com.my###ivsplayer01-container
-! chinapress.com.my##.clearfix.eclassified_new_featured
-! chinapress.com.my##.desktop_hidden_ads
-! chinapress.com.my##div[class="ec-jobs-slider-slider-card"]
-! chinapress.com.my##div[class="eclassified-new-featured-title"]
-! chinapress.com.my##div[id="full_screen_overlay"]
-! chinapress.com.my##footer
+chinapress.com.my##div[class="jobads-container"]
+chinapress.com.my###content-adv
+chinapress.com.my###ivsplayer01-container
+chinapress.com.my##.clearfix.eclassified_new_featured
+chinapress.com.my##.desktop_hidden_ads
+chinapress.com.my##div[class="ec-jobs-slider-slider-card"]
+chinapress.com.my##div[class="eclassified-new-featured-title"]
+chinapress.com.my##div[id="full_screen_overlay"]
+chinapress.com.my##footer
 czbooks.net###background-block
 czbooks.net###block-container
 czbooks.net##.ads
