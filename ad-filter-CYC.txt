@@ -43,7 +43,6 @@ check4d.org##span[role="button"]
 check4d.org##div[id="google_ads_iframe_/424536528,32409680/1527286_check4d.org_300x250_responsive_0__container__"]
 check4d.org##div[id="google_ads_iframe_/424536528,32409680/1527287_check4d.org_300x250_responsive_1_0__container__"]
 check4d.org##div[id="google_ads_iframe_/424536528,32409680/1539031_check4d.org_Wipead_0__container__"]
-xnxx.com##div[id="ad-header-mobile"]
 chinapress.com.my##div[class="jobads-container"]
 chinapress.com.my###content-adv
 chinapress.com.my###ivsplayer01-container
@@ -125,6 +124,7 @@ theathletic.com##footer
 theathletic.com/*.js
 thestar.com.my##.alertbox
 thestar.com.my##.slider-story
+xnxx.com##div[id="ad-header-mobile"]
 yulusy.com##div[class="DivBottom"]
 yulusy.com##div[class="bfnrwCGT"]
 yulusy.com##div[class="sErr FCol"]
