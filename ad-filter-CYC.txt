@@ -2,7 +2,7 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.21
+! Version: 2.22
 @@||addthis.com^
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
@@ -33,6 +33,17 @@
 biquge.tw##.zhuanti
 bleacherreport.com###social-promo-flyin
 cdn.chaobai168.com/js/go009.js
+check4d.org##div[id="ap-player"]
+check4d.org##div[id="videoWrapperDiv"]
+check4d.org##div[id="fallbackParentContainerId"]
+check4d.org##div[class="_ap_apex_ad"]
+check4d.org^$subdocument
+check4d.org##div[id="google_ads_iframe_/424536528,32409680/1539031-1_check4d.org_Wipead_0__container__"]
+check4d.org##span[role="button"]
+check4d.org##div[id="google_ads_iframe_/424536528,32409680/1527286_check4d.org_300x250_responsive_0__container__"]
+check4d.org##div[id="google_ads_iframe_/424536528,32409680/1527287_check4d.org_300x250_responsive_1_0__container__"]
+check4d.org##div[id="google_ads_iframe_/424536528,32409680/1539031_check4d.org_Wipead_0__container__"]
+xnxx.com##div[id="ad-header-mobile"]
 chinapress.com.my##div[class="jobads-container"]
 chinapress.com.my###content-adv
 chinapress.com.my###ivsplayer01-container
@@ -101,6 +112,7 @@ newsnow.co.uk##.u-top-spacer-xs.page-grid__all.blurb.u-card-base
 newsnow.co.uk#?#script:contains(blockerDetection)
 pornhub.com###discoverSearch
 pornhub.com##.js-mainFooter
+sinchew.com.my##div[class="jobads-container"]
 sinchew.com.my##.adv-post
 sinchew.com.my#@#.socialshare
 sinchew.com.my#@#a[href^="https://api.whatsapp.com/send?text="]
