@@ -1,8 +1,11 @@
+express.co.uk##div[id="taboola-mobile-1x1-header-nc"]
+dailymail.co.uk##ad-slot
+goal.com##div[id="mobile-adhesion-ad"]
 ! Author: CYC
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.22
+! Version: 2.23
 @@||addthis.com^
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
