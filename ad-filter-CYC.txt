@@ -1,11 +1,8 @@
-express.co.uk##div[id="taboola-mobile-1x1-header-nc"]
-dailymail.co.uk##ad-slot
-goal.com##div[id="mobile-adhesion-ad"]
 ! Author: CYC
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.23
+! Version: 2.24
 @@||addthis.com^
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
@@ -23,8 +20,6 @@ goal.com##div[id="mobile-adhesion-ad"]
 @@||tm.com.my^
 *$third-party,domain=soduzw.com
 */assets/publi*.js*
-||assets.minutemediacdn.com^
-||ivideosmart.com^$domain=sinchew.com.my
 69shuba.pro###baocuo
 69shuba.pro##.col-4
 69shuba.pro##.foot
@@ -36,23 +31,23 @@ goal.com##div[id="mobile-adhesion-ad"]
 biquge.tw##.zhuanti
 bleacherreport.com###social-promo-flyin
 cdn.chaobai168.com/js/go009.js
-check4d.org##div[id="ap-player"]
-check4d.org##div[id="videoWrapperDiv"]
-check4d.org##div[id="fallbackParentContainerId"]
 check4d.org##div[class="_ap_apex_ad"]
-check4d.org^$subdocument
-check4d.org##div[id="google_ads_iframe_/424536528,32409680/1539031-1_check4d.org_Wipead_0__container__"]
-check4d.org##span[role="button"]
+check4d.org##div[id="ap-player"]
+check4d.org##div[id="fallbackParentContainerId"]
 check4d.org##div[id="google_ads_iframe_/424536528,32409680/1527286_check4d.org_300x250_responsive_0__container__"]
 check4d.org##div[id="google_ads_iframe_/424536528,32409680/1527287_check4d.org_300x250_responsive_1_0__container__"]
+check4d.org##div[id="google_ads_iframe_/424536528,32409680/1539031-1_check4d.org_Wipead_0__container__"]
 check4d.org##div[id="google_ads_iframe_/424536528,32409680/1539031_check4d.org_Wipead_0__container__"]
-chinapress.com.my##div[class="jobads-container"]
+check4d.org##div[id="videoWrapperDiv"]
+check4d.org##span[role="button"]
+check4d.org^$subdocument
 chinapress.com.my###content-adv
 chinapress.com.my###ivsplayer01-container
 chinapress.com.my##.clearfix.eclassified_new_featured
 chinapress.com.my##.desktop_hidden_ads
 chinapress.com.my##div[class="ec-jobs-slider-slider-card"]
 chinapress.com.my##div[class="eclassified-new-featured-title"]
+chinapress.com.my##div[class="jobads-container"]
 chinapress.com.my##div[id="full_screen_overlay"]
 chinapress.com.my##footer
 czbooks.net###background-block
@@ -61,12 +56,13 @@ czbooks.net##.ads
 czbooks.net##.download-notice
 czbooks.net##.read-on-app
 czbooks.net##A[href='//czbooks.net/editor']
-dailymail.co.uk##div[data-swipe-article="false"]
-dailymail.co.uk##div[data-mol-fe-xpmodule-related-story-factbox="true"]
 dailymail.co.uk###most-watched-videos-lazy-container
 dailymail.co.uk##.puff.sport
 dailymail.co.uk##.related-replace-articles
+dailymail.co.uk##ad-slot
 dailymail.co.uk##div[class="swipe-tutorial"]
+dailymail.co.uk##div[data-mol-fe-xpmodule-related-story-factbox="true"]
+dailymail.co.uk##div[data-swipe-article="false"]
 dailystar.co.uk##div[id="breaking-news"]
 express.co.uk##a[class="breaking-news-headline"]
 express.co.uk##div[class="box related-articles clear"]
@@ -76,6 +72,7 @@ express.co.uk##div[class="cheetah-container"]
 express.co.uk##div[class="view-deal-sticky"]
 express.co.uk##div[class="widget blurb"]
 express.co.uk##div[id="mantis-recommender-placeholder"]
+express.co.uk##div[id="taboola-mobile-1x1-header-nc"]
 finttv.ga##.wp-block-button
 finttv.ga#?#p:contains(Предоставленный ниже)
 freemalaysiatoday.com/*.js
@@ -85,6 +82,7 @@ goal.com##.modal
 goal.com##.modal_popup
 goal.com##.overlay
 goal.com##div[class="fc-player_player__OzOmX"]
+goal.com##div[id="mobile-adhesion-ad"]
 m.qidian.com###reader-toast-container
 madriduniversal.com###mvp-fly-wrap
 madriduniversal.com###mvp-main-nav-wrap
@@ -100,8 +98,9 @@ managingmadrid.com##FIGURE.e-image
 marca.com###banda_suscripcion
 marca.com##div[class="kWidgetIframeContainer full-video"]
 marca.com##header[class="ue-c-video-player-frame__header"]
-metro.co.uk##div[id="we-need-monies"]
+metro.co.uk##div[class="metro-pull-notification"]
 metro.co.uk##div[id="swipe-next-overlay"]
+metro.co.uk##div[id="we-need-monies"]
 mirror.co.uk##div[class="email-trigger"]
 mirror.co.uk##div[data-embed-type="news"]
 mirror.co.uk##div[id="breaking-news"]
@@ -114,13 +113,14 @@ newsnow.co.uk##.u-top-spacer-xs.page-grid__all.blurb.u-card-base
 newsnow.co.uk#?#script:contains(blockerDetection)
 pornhub.com###discoverSearch
 pornhub.com##.js-mainFooter
-sinchew.com.my##div[class="jobads-container"]
 sinchew.com.my##.adv-post
+sinchew.com.my##div[class="jobads-container"]
 sinchew.com.my#@#.socialshare
 sinchew.com.my#@#a[href^="https://api.whatsapp.com/send?text="]
 sj.uukanshu.com##.samebooks1
 sj.uukanshu.com##.share.share_top
 sportbible.com##div[id="primis_playerSekindoSPlayer663b91db90d70"]
+telegraph.co.uk##div[data-js="martech-footer"]
 theathletic.com###slideup-paywall-experiment
 theathletic.com###slideup-regwall-experiment
 theathletic.com##footer
@@ -138,3 +138,5 @@ yulusy.com##dl[class="S2"]
 yulusy.com##h2[class="vbgcol FCol"]
 yulusy.com#?#h2:contains(的书友还喜欢看)
 yulusy.com$$div[id="nsws"]
+||assets.minutemediacdn.com^
+||ivideosmart.com^$domain=sinchew.com.my
