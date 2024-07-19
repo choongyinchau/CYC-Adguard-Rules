@@ -137,7 +137,9 @@ yulusy.com##div[style="height:60px;"]
 yulusy.com##dl[class="S2"]
 yulusy.com##h2[class="vbgcol FCol"]
 yulusy.com#?#h2:contains(的书友还喜欢看)
+yulusy.com##div[id="nsws"]
 yulusy.com$$div[id="nsws"]
+32995.com##div[id="nsws"]
 32995.com$$div[id="nsws"]
 ||assets.minutemediacdn.com^
 ||ivideosmart.com^$domain=sinchew.com.my
