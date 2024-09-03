@@ -20,7 +20,6 @@
 @@||tm.com.my^
 *$third-party,domain=soduzw.com
 */assets/publi*.js*
-
 69shu.me###baocuo
 69shu.me##.col-4
 69shu.me##.foot
