@@ -104,6 +104,7 @@ metro.co.uk##div[id="we-need-monies"]
 mirror.co.uk##div[class="email-trigger"]
 mirror.co.uk##div[data-embed-type="news"]
 mirror.co.uk##div[id="breaking-news"]
+newsnow.co.uk##div>aside
 newsnow.co.uk##.ad__container
 newsnow.co.uk##.ad__container--mobile
 newsnow.co.uk##.container__group--mobile
