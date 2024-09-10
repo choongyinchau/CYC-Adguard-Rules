@@ -22,6 +22,7 @@
 */assets/publi*.js*
 69shu.me###baocuo
 69shu.me##.col-4
+69shu.me##.contentadv
 69shu.me##.foot
 69shu.me##.headerad
 69shu.me##.ranking
