@@ -29,6 +29,7 @@
 69shu.me##.tuijian
 69shu.me##.yueduad1
 69shu.me##.yuedutuijian
+69shu.me##.zuijinnr
 biquge.tw##.zhuanti
 bleacherreport.com###social-promo-flyin
 cdn.chaobai168.com/js/go009.js
