@@ -5,6 +5,7 @@
 ! Version: 2.27
 *$third-party,domain=soduzw.com
 */assets/publi*.js*
+*/193nxsdkdzzzz48.jss*
 32995.com##div[id="nsws"]
 32995.com$$div[id="nsws"]
 69shu.ac,69shu.me,69shuba.cx,69shuba.pro###baocuo
