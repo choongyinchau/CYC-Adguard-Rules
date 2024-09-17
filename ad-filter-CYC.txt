@@ -2,7 +2,21 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.26
+! Version: 2.27
+*$third-party,domain=soduzw.com
+*/assets/publi*.js*
+32995.com##div[id="nsws"]
+32995.com$$div[id="nsws"]
+69shu.ac,69shu.me,69shuba.cx,69shuba.pro###baocuo
+69shu.ac,69shu.me,69shuba.cx,69shuba.pro##.col-4
+69shu.ac,69shu.me,69shuba.cx,69shuba.pro##.contentadv
+69shu.ac,69shu.me,69shuba.cx,69shuba.pro##.foot
+69shu.ac,69shu.me,69shuba.cx,69shuba.pro##.headerad
+69shu.ac,69shu.me,69shuba.cx,69shuba.pro##.ranking
+69shu.ac,69shu.me,69shuba.cx,69shuba.pro##.tuijian
+69shu.ac,69shu.me,69shuba.cx,69shuba.pro##.yueduad1
+69shu.ac,69shu.me,69shuba.cx,69shuba.pro##.yuedutuijian
+69shu.ac,69shu.me,69shuba.cx,69shuba.pro##.zuijinnr
 @@||addthis.com^
 @@||amonline.com.my^
 @@||chiliboomtv.chinapress.com.my^
@@ -18,18 +32,6 @@
 @@||shopee.com.my^
 @@||time.com.my^
 @@||tm.com.my^
-*$third-party,domain=soduzw.com
-*/assets/publi*.js*
-69shuba.cx###baocuo
-69shuba.cx##.col-4
-69shuba.cx##.contentadv
-69shuba.cx##.foot
-69shuba.cx##.headerad
-69shuba.cx##.ranking
-69shuba.cx##.tuijian
-69shuba.cx##.yueduad1
-69shuba.cx##.yuedutuijian
-69shuba.cx##.zuijinnr
 biquge.tw##.zhuanti
 bleacherreport.com###social-promo-flyin
 cdn.chaobai168.com/js/go009.js
@@ -106,13 +108,13 @@ metro.co.uk##div[id="we-need-monies"]
 mirror.co.uk##div[class="email-trigger"]
 mirror.co.uk##div[data-embed-type="news"]
 mirror.co.uk##div[id="breaking-news"]
-newsnow.co.uk##div>aside
 newsnow.co.uk##.ad__container
 newsnow.co.uk##.ad__container--mobile
 newsnow.co.uk##.container__group--mobile
 newsnow.co.uk##.grid-column
 newsnow.co.uk##.grid.ticker
 newsnow.co.uk##.u-top-spacer-xs.page-grid__all.blurb.u-card-base
+newsnow.co.uk##div>aside
 newsnow.co.uk#?#script:contains(blockerDetection)
 pornhub.com###discoverSearch
 pornhub.com##.js-mainFooter
@@ -135,14 +137,12 @@ yulusy.com##div[class="DivBottom"]
 yulusy.com##div[class="bfnrwCGT"]
 yulusy.com##div[class="sErr FCol"]
 yulusy.com##div[class="stBIKLPY"]
+yulusy.com##div[id="nsws"]
 yulusy.com##div[style="height: 60px;"]
 yulusy.com##div[style="height:60px;"]
 yulusy.com##dl[class="S2"]
 yulusy.com##h2[class="vbgcol FCol"]
 yulusy.com#?#h2:contains(的书友还喜欢看)
-yulusy.com##div[id="nsws"]
 yulusy.com$$div[id="nsws"]
-32995.com##div[id="nsws"]
-32995.com$$div[id="nsws"]
 ||assets.minutemediacdn.com^
 ||ivideosmart.com^$domain=sinchew.com.my
