@@ -52,6 +52,7 @@ chinapress.com.my##div[class="ec-jobs-slider-slider-card"]
 chinapress.com.my##div[class="eclassified-new-featured-title"]
 chinapress.com.my##div[class="jobads-container"]
 chinapress.com.my##div[id="full_screen_overlay"]
+chinapress.com.my#?#div: contains(content-adv-)
 chinapress.com.my##footer
 czbooks.net###background-block
 czbooks.net###block-container
