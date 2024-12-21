@@ -6,8 +6,6 @@
 *$third-party,domain=soduzw.com
 */assets/publi*.js*
 */193nxsdkdzzzz48.jss*
-32995.com##div[id="nsws"]
-32995.com$$div[id="nsws"]
 69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz##.bottom-ad
 69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz###baocuo
 69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz##.col-4
@@ -36,7 +34,6 @@
 @@||tm.com.my^
 biquge.tw##.zhuanti
 bleacherreport.com###social-promo-flyin
-cdn.chaobai168.com/js/go009.js
 check4d.org##div[class="_ap_apex_ad"]
 check4d.org##div[id="ap-player"]
 check4d.org##div[id="fallbackParentContainerId"]
@@ -89,6 +86,8 @@ goal.com##.modal_popup
 goal.com##.overlay
 goal.com##div[class="fc-player_player__OzOmX"]
 goal.com##div[id="mobile-adhesion-ad"]
+longmebook.com##video
+longmebook.com##.swiper-container
 m.qidian.com###reader-toast-container
 madriduniversal.com###mvp-fly-wrap
 madriduniversal.com###mvp-main-nav-wrap
@@ -115,6 +114,7 @@ newsnow.co.uk##.ad__container--mobile
 newsnow.co.uk##.container__group--mobile
 newsnow.co.uk##.grid-column
 newsnow.co.uk##.grid.ticker
+newsnow.co.uk##.site-ribbon-content
 newsnow.co.uk##.u-top-spacer-xs.page-grid__all.blurb.u-card-base
 newsnow.co.uk##div>aside
 newsnow.co.uk#?#script:contains(blockerDetection)
