@@ -111,6 +111,7 @@ mirror.co.uk##div[data-embed-type="news"]
 mirror.co.uk##div[id="breaking-news"]
 newsnow.co.uk##.ad__container
 newsnow.co.uk##.ad__container--mobile
+newsnow.co.uk##.affiliate-link
 newsnow.co.uk##.container__group--mobile
 newsnow.co.uk##.grid-column
 newsnow.co.uk##.grid.ticker
