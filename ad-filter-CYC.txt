@@ -60,6 +60,7 @@ czbooks.net##.ads
 czbooks.net##.download-notice
 czbooks.net##.read-on-app
 czbooks.net##A[href='//czbooks.net/editor']
+czbooks.net##vmfive-ad-box
 dailymail.co.uk###most-watched-videos-lazy-container
 dailymail.co.uk##.puff.sport
 dailymail.co.uk##.related-replace-articles
