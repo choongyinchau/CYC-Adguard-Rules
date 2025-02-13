@@ -2,15 +2,16 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.30
+! Version: 2.31
 *$third-party,domain=soduzw.com
 */assets/publi*.js*
 */193nxsdkdzzzz48.jss*
+69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz,69yuedu.net###games_ads
 69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz,69yuedu.net##.bottom-ad
-69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz###baocuo
-69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz##.col-4
-69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz##.contentadv
-69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz##.foot
+69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz,69yuedu.net###baocuo
+69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz,69yuedu.net##.col-4
+69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz,69yuedu.net##.contentadv
+69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz,69yuedu.net##.foot
 69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz,69yuedu.net##.headerad
 69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz,69yuedu.net##.ranking
 69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz,69yuedu.net##.tuijian
