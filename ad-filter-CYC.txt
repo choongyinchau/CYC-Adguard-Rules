@@ -6,6 +6,8 @@
 *$third-party,domain=soduzw.com
 */assets/publi*.js*
 */193nxsdkdzzzz48.jss*
+69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz,69yuedu.net##.fc-dialog-overlay
+69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz,69yuedu.net##.fc-monetization-dialog-container
 69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz,69yuedu.net###games_ads
 69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz,69yuedu.net##.bottom-ad
 69shu.ac,69shu.me,69shuba.cx,69shuba.com,69shuba.pro,69shu.biz,69yuedu.net###baocuo
@@ -69,6 +71,7 @@ dailymail.co.uk##div[class="swipe-tutorial"]
 dailymail.co.uk##div[data-mol-fe-xpmodule-related-story-factbox="true"]
 dailymail.co.uk##div[data-swipe-article="false"]
 dailystar.co.uk##div[id="breaking-news"]
+elitebabes.com##.exo-native-widget-item-container
 express.co.uk##a[class="breaking-news-headline"]
 express.co.uk##div[class="box related-articles clear"]
 express.co.uk##div[class="box two-related-articles clear"]
