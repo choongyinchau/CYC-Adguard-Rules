@@ -1,3 +1,4 @@
+https://web.static.mmcdn.com/tsdefaultassets/sounds/classic/*.mp3
 ! Author: CYC
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
