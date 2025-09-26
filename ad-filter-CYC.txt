@@ -125,6 +125,8 @@ newsnow.co.uk##.site-ribbon-content
 newsnow.co.uk##.u-top-spacer-xs.page-grid__all.blurb.u-card-base
 newsnow.co.uk##div>aside
 newsnow.co.uk#?#script:contains(blockerDetection)
+newsnow.co.uk##div[class="callout__inner u-box-shadow"]
+newsnow.co.uk##div[class="callout__arrow callout__arrow--top-right"]
 pornhub.com###discoverSearch
 pornhub.com##.js-mainFooter
 sinchew.com.my##.adv-post
@@ -155,3 +157,4 @@ yulusy.com#?#h2:contains(的书友还喜欢看)
 yulusy.com$$div[id="nsws"]
 ||assets.minutemediacdn.com^
 ||ivideosmart.com^$domain=sinchew.com.my
+
