@@ -1,9 +1,8 @@
-https://web.static.mmcdn.com/tsdefaultassets/sounds/classic/*.mp3
 ! Author: CYC
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.32
+! Version: 2.33
 *$third-party,domain=soduzw.com
 */assets/publi*.js*
 */193nxsdkdzzzz48.jss*
@@ -73,6 +72,7 @@ dailymail.co.uk##div[data-mol-fe-xpmodule-related-story-factbox="true"]
 dailymail.co.uk##div[data-swipe-article="false"]
 dailystar.co.uk##div[id="breaking-news"]
 elitebabes.com##.exo-native-widget-item-container
+www.eroticbeauties.net/cams.php*
 express.co.uk##a[class="breaking-news-headline"]
 express.co.uk##div[class="box related-articles clear"]
 express.co.uk##div[class="box two-related-articles clear"]
@@ -115,6 +115,7 @@ metro.co.uk##div[id="we-need-monies"]
 mirror.co.uk##div[class="email-trigger"]
 mirror.co.uk##div[data-embed-type="news"]
 mirror.co.uk##div[id="breaking-news"]
+web.static.mmcdn.com/tsdefaultassets/sounds/classic/*.mp3
 newsnow.co.uk##.ad__container
 newsnow.co.uk##.ad__container--mobile
 newsnow.co.uk##.affiliate-link
