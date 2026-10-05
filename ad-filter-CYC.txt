@@ -2,7 +2,7 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.34
+! Version: 2.35
 *$third-party,domain=soduzw.com
 */assets/publi*.js*
 */193nxsdkdzzzz48.jss*
@@ -72,7 +72,8 @@ dailymail.co.uk##div[data-mol-fe-xpmodule-related-story-factbox="true"]
 dailymail.co.uk##div[data-swipe-article="false"]
 dailystar.co.uk##div[id="breaking-news"]
 elitebabes.com##.exo-native-widget-item-container
-https://www.eroticbeauties.net/cams.php*
+||www.eroticbeauties.net/cams.php
+||www.eroticbeauties.net/onlyfans.php
 express.co.uk##a[class="breaking-news-headline"]
 express.co.uk##div[class="box related-articles clear"]
 express.co.uk##div[class="box two-related-articles clear"]
