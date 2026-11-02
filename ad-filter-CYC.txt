@@ -2,7 +2,7 @@
 ! Description: CYC's Ad Filters
 ! Expires: 7 days (update frequency)
 ! Title: CYC's Ad Filters
-! Version: 2.35
+! Version: 2.36
 *$third-party,domain=soduzw.com
 */assets/publi*.js*
 */193nxsdkdzzzz48.jss*
@@ -138,6 +138,7 @@ sinchew.com.my#@#a[href^="https://api.whatsapp.com/send?text="]
 sj.uukanshu.com##.samebooks1
 sj.uukanshu.com##.share.share_top
 sportbible.com##div[id="primis_playerSekindoSPlayer663b91db90d70"]
+||sports.yahoo.com^$script
 telegraph.co.uk##div[data-js="martech-footer"]
 theathletic.com###slideup-paywall-experiment
 theathletic.com###slideup-regwall-experiment
